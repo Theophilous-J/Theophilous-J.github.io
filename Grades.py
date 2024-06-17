@@ -1,5 +1,6 @@
-#Jesse Theophilous
-#Grades Lab
+#This Code will average out your last five test scores!
+#Good Luck!!!
+#User input
 
 def main():
     test1 = int(input("Enter score 1: "))
@@ -7,6 +8,8 @@ def main():
     test3 = int(input("Enter score 3: "))
     test4 = int(input("Enter score 4: "))
     test5 = int(input("Enter score 5: "))
+
+#Test Averaging
     
     average_grade = calc_average(test1, test2, test3, test4, test5)
     

@@ -31,7 +31,7 @@ def main():
 def calc_average(test1, test2, test3, test4, test5):
     SUM = test1 + test2 + test3 + test4 + test5
     mean = SUM / 5
-    return mean
+    print(mean)
             
 
 def determine_grade(test1):

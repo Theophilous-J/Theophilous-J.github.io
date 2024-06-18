@@ -1,5 +1,5 @@
 #Jesse Theophilous
-#Fahrenheit to Celsius
+#Celsius to Fahrenheit
 
 #math
 C= float(input("What is the temperature outside in Celcius?: "))
